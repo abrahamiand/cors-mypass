@@ -1,0 +1,29 @@
+{
+  "name": "cors-mypass",
+  "version": "1.0.0",
+  "description": "A Proxy server for bypassing CORS denial",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahamiand/cors-mypass.git"
+  },
+  "keywords": [
+    "Proxy",
+    "CORS-Proxy",
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Abraham Gebrekidan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrahamiand/cors-mypass/issues"
+  },
+  "homepage": "https://github.com/abrahamiand/cors-mypass#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
