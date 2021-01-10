@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/abrahamiand/cors-mypass#readme",
   "dependencies": {
+    "cors-anywhere": "^0.4.3",
     "express": "^4.17.1",
     "request": "^2.88.2",
     "socket.io": "^3.0.5"
